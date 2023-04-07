@@ -1,1 +1,2 @@
-# qc_ss_23
+# Introduction to Quantum Computing 
+----
